@@ -1,6 +1,6 @@
 # Hi 👋, My name is Kirill
 ## I'm .NET Developer.
-![I'm .NET Developer.]()
+![I'm .NET Developer.](https://github.com/BlaynerProgramm/BlaynerProgramm/blob/main/assets/head.jpg?raw=true)
 
 # About me
 I have been studying it for more than 3 years .NET C# and I try to expand my knowledge all the time, I constantly practice (I solve tasks and laboratory work from universities, I come up with projects for myself). Participated in the development of a centralized system for his college in the team. Basically, I am self-educated and easy to learn, I like to improve my skills.
