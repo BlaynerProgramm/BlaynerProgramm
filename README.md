@@ -3,7 +3,7 @@
 ![I'm .NET Developer.](https://github.com/BlaynerProgramm/BlaynerProgramm/blob/main/assets/head.jpg?raw=true)
 
 # About me
-I have been studying it for more than 3 years .NET C# and I try to expand my knowledge all the time, I constantly practice (I solve tasks and laboratory work from universities, I come up with projects for myself). Participated in the development of a centralized system for his college in the team. Basically, I am self-educated and easy to learn, I like to improve my skills.
+I have been studying C# for more than 3 years .NET C# and I try to expand my knowledge all the time, I constantly practice (I solve tasks and laboratory work from universities, I come up with projects for myself). Participated in the development of a centralized system for his college in the team. Basically, I am self-educated and easy to learn, I like to improve my skills.
 ## More about me
 - 🛠 __Language and Tools:__
 
@@ -23,4 +23,6 @@ I have been studying it for more than 3 years .NET C# and I try to expand my kno
 - 🚀 I’m currently learning Actual Full Stack Development.
 
 ### My stats:
+![CodeWars](https://www.codewars.com/users/BlaynerProgramm/badges/large)
+
 -[![Kirill GitHub stats](https://github-readme-stats.vercel.app/api?username=BlaynerProgramm&show_icons=true&theme=nightowl)](https://github.com/BlaynerProgramm/github-readme-stats)
