@@ -27,3 +27,4 @@ I have been studying C# for more than 3 years .NET C# and I try to expand my kno
 ![CodeWars](https://www.codewars.com/users/Blayner/badges/small)
 
 -[![Kirill GitHub stats](https://github-readme-stats.vercel.app/api?username=BlaynerProgramm&show_icons=true&theme=nightowl)](https://github.com/BlaynerProgramm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlaynerProgramm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
