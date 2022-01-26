@@ -11,7 +11,7 @@ I have been studying C# for more than 3 years .NET C# and I try to expand my kno
     ![C#](https://img.shields.io/badge/-CSharp-5c00d4?style=for-the-badge&logo=sharp&logoColor=gold)
     ![C#](https://img.shields.io/badge/-JavaScript-5c00d4?style=for-the-badge&logo=JavaScript&logoColor=gold)
 
-    ![Frameworks](https://img.shields.io/badge/Frameworks-ADO.NET,_EntityFramework_Core,_LinqToDb-blue?style=for-the-badge)
+    ![Frameworks](https://img.shields.io/badge/Frameworks-ADO.NET,_EntityFramework_Core,_LinqToDb,_WPF-blue?style=for-the-badge)
 
     ![Data Base](https://img.shields.io/badge/Data_Base-MS_SQL,_MySql,_PostgreSQL-yellow?style=for-the-badge)
 
@@ -19,7 +19,7 @@ I have been studying C# for more than 3 years .NET C# and I try to expand my kno
 
     ![Patterns](https://img.shields.io/badge/Patterns-MVC,_MVP,_Factory-success?style=for-the-badge)
 
-    ![Other](https://img.shields.io/badge/Other-Understanding_the_principles_OOP,_work_with_XML_and_JSON,_WPF,_RestApi,_HTML5/CSS3-informational?style=for-the-badge)
+    ![Other](https://img.shields.io/badge/Other-Understanding_the_principles_OOP,_SOLID,_work_with_XML_and_JSON,_RestApi,_HTML5/CSS3-informational?style=for-the-badge)
     
 - 🚀 I’m currently learning Actual Full Stack Development.
 
