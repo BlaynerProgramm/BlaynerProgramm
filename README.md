@@ -3,7 +3,8 @@
 ![I'm .NET Developer.](https://github.com/BlaynerProgramm/BlaynerProgramm/blob/main/assets/head.jpg?raw=true)
 
 # About me
-I have been studying C# for more than 3 years .NET C# and I try to expand my knowledge all the time, I constantly practice (I solve tasks and laboratory work from universities, I come up with projects for myself). Participated in the development of a centralized system for his college in the team. Basically, I am self-educated and easy to learn, I like to improve my skills.
+For more than 3 years practicing .NET C# and trying all the time to expand my knowledge, constantly evolving (solving tasks and labs from universities, inventing projects). I took part in development of centralized system for my college as a team. Basically, I am self-educated and easy learner, I like to improve my skills.
+
 ## More about me
 - 🛠 __Language and Tools:__
 
